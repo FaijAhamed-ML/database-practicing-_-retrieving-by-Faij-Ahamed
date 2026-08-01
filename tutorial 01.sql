@@ -204,7 +204,6 @@ Insert into EmployeesMeetings values(9,31)
 Insert into EmployeesMeetings values(8,32)
 
 
-0
 select * from EmployeesMeetings
 select * from Meetings
 --ans
